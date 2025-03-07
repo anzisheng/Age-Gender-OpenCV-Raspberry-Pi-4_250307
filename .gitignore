@@ -1,0 +1,4 @@
+*.jpg
+build/
+*.caffemodel
+*.caffemodel
